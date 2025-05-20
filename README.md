@@ -1,2 +1,2 @@
 # RAG-Aplications
-Repositório criado para mostras aplicações de RAG em documentos ou materiais para estudo.
+Repositório criado para mostrar aplicações de RAG em documentos ou materiais para estudo.
